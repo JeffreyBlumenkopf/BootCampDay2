@@ -10,7 +10,10 @@ public class Main {
         Scanner scan1 = new Scanner(System.in);
         int userInputNumber = 0;
 
+/*
+      created by Jeffrey Blumenkopf
 
+ */
 
 
         System.out.println("What is your name?");
